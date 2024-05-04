@@ -14,6 +14,7 @@ Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Ja
 ![NodeJs](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node)  
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=api)
 
 ## Herramientas Diseño 🐱‍🐉 
 
