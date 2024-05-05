@@ -9,12 +9,11 @@ Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Ja
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap)  
 ![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=react)  
-![NestJS](https://img.shields.io/badge/NestJS-grey?style=for-the-badge&logo=nest)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql)
 ![NodeJs](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node)  
+![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=api)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=api)
 
 ## Herramientas Diseño 🐱‍🐉 
 
