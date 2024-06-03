@@ -1,6 +1,6 @@
 # ¡Hola! 👋🏽
 
-Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Javascript viviendo en Santiago de Chile. Soy una nerd empedernida y además de aprender, me gusta la fotografía análoga y también disfruto haciendo bordados, leeyendo y jugando videojuegos.
+Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Javascript viviendo en Santiago de Chile. Soy una nerd empedernida y además de aprender, me gusta la fotografía análoga y también disfruto haciendo bordados, leyendo y jugando videojuegos.
 
 ## Herramientas Programación 🐱‍💻
 
