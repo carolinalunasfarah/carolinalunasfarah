@@ -14,9 +14,11 @@ Mi nombre es **Carolina**, soy Arquitecta, Desarrolladora Full Stack Javascript 
 ![Firebase](https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase)  
 ![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=api)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-grey?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-grey?style=for-the-badge&logo=android)  
+![Material Design](https://img.shields.io/badge/Material_Design-grey?style=for-the-badge&logo=materialdesign)
+
 
 ## Herramientas Diseño 🐱‍🐉 
 
