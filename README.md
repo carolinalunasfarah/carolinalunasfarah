@@ -1,6 +1,6 @@
 # ¡Hola! 👋🏽
 
-Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Javascript viviendo en Santiago de Chile. Soy una nerd empedernida y además de aprender, me gusta la fotografía análoga y también disfruto haciendo bordados, leyendo y jugando videojuegos.
+Mi nombre es **Carolina**, soy Arquitecta, Desarrolladora Full Stack Javascript y Android viviendo en Santiago de Chile. Soy una nerd empedernida y además de aprender, me gusta la fotografía análoga y también disfruto haciendo bordados, leyendo y jugando videojuegos.
 
 ## Herramientas Programación 🐱‍💻
 
@@ -15,6 +15,8 @@ Mi nombre es **Carolina**, soy Arquitecta (TIn’t) y Programadora Full Stack Ja
 ![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=api)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-grey?style=for-the-badge&logo=android)
 
 ## Herramientas Diseño 🐱‍🐉 
 
