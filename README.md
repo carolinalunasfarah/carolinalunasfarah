@@ -27,7 +27,7 @@ Mi nombre es **Carolina**, soy Arquitecta, Desarrolladora Full Stack Javascript 
 
 ## Dónde encontrarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carolina-lunas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carolinalunasfarah/)
 
 
 
